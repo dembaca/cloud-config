@@ -6,7 +6,7 @@ rancher:
         dhcp: true
     dns:
       search:
-        - eu-dus-1.cloudifire.net
+        - undefined.eu-dus-1.cloudifire.net
       nameservers:
         - 195.49.152.215
         - 195.49.152.213
