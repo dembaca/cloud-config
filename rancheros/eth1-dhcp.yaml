@@ -7,7 +7,7 @@ rancher:
     dns:
       search:
         - eu-dus-1.cloudifire.net
-      nameserver:
+      nameservers:
         - 195.49.152.215
         - 195.49.152.213
         - 195.49.152.214
